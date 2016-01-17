@@ -1,4 +1,8 @@
-This is an Arduino library for the HMC6352 compass module. 
+## What is this?
+
+This is a fork of Sparkfun's Arduino library for the HMC6352 compass module with support for calibration. See the example sketch for more details.
+
+## Original README
 
 Pick one up at http://www.sparkfun.com/products/7915
 
